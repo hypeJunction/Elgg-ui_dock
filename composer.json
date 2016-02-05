@@ -1,0 +1,24 @@
+{
+	"name": "hypejunction/ui_dock",
+	"type": "elgg-plugin",
+	"description": "Icon dock",
+	"homepage": "http://hypejunction.com",
+	"keywords": [
+		"elgg", "plugin", "ui", "dock"
+	],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Ismayil Khayredinov",
+			"email": "info@hypejunction.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5",
+		"composer/installers": "~1.0"
+	},
+	"suggest": {
+		"iionly/feedback": "~2.0"
+	}
+}
+
