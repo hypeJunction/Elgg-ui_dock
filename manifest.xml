@@ -18,9 +18,4 @@
 		<version>2.0</version>
 	</requires>
 
-	<suggests>
-		<type>plugin</type>
-		<name>feedback</name>
-	</suggests>
-
 </plugin_manifest>

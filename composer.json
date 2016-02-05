@@ -16,9 +16,6 @@
 	"require": {
 		"php": ">=5.5",
 		"composer/installers": "~1.0"
-	},
-	"suggest": {
-		"iionly/feedback": "~2.0"
 	}
 }
 
